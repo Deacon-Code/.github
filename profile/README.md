@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Deacon Code is the best and only software engineering club at [Wake Forest University](https://cs.wfu.edu/).
+
 <!--
 
 **Here are some ideas to get you started:**
